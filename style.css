@@ -1,0 +1,43 @@
+.calculator {
+	display: flex;
+	flex-wrap: wrap;
+	width: 150px;
+}
+
+#answer {
+	width: 150px;
+	height:25px;
+
+}
+.numbers {
+	width:70px;
+	height: 25px;
+
+}
+::-webkit-input-placeholder {
+	color:gray;
+	font-style: italic;
+	text-align: center;
+}
+
+.operators {
+	width:76px;
+}
+
+.numbers {
+	background-color: white;
+}
+
+.operators {
+	background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+
